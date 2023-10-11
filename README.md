@@ -1,16 +1,12 @@
-### Hi there 👋
+### Azul felawen 👋
 
-<!--
-**amirouche/amirouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on letloop, my implementation of John Shutt's Kernel and python tooling
+- 🌱 I’m currently learning tamazight
+- 🤝 I’m looking to collaborate on the promotion of Scheme programming language
+- 🤙 I’m looking for help with [letloop](https://github.com/letloop/letloop/issues)
+- 💬 Ask me about software engineering, food, and getting back into good shape
+- 📫 How to reach me: email
+- ⚧️ Pronouns: he / him / his
+- ⚡ Fun fact: I have a beautiful, and awesome wife
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ⵄⵎⵉⵔⵓⵛ profile views](https://u8views.com/api/v1/github/profiles/7444897/views/day-week-month-total-count.svg)](https://u8views.com/github/amirouche)
