@@ -10,11 +10,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - run: gh login || true
       - run: gh repo clone amirouche/amirouche -- --branch $BRANCH
       - run: cd amirouche && make
       - run: cd amirouche && git checkout -b update-$(date --iso=date)
       - run: git config --global user.name "github action update.yml"
       - run: git config --global user.email "<>"
       - run: cd amirouche && git commit -am "Update for $(date --iso=date)"
-      - run: cd amirouche && gh pr create --title "$(date --iso=date)" --body "Please-merge."
+      - run: cd amirouche && git push -u origin update-$(date --iso=date)
+      - run: cd amirouche && gh pr create --title "Automatic update for $(date --iso=date)" --body "Please merge."
  
