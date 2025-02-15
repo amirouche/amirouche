@@ -3,7 +3,7 @@ name: update
 on: workflow_dispatch
 
 env:
-  GH_TOKEN: ${{ github.token }}
+  GH_TOKEN: ${{ secrets.AMIROUCHE }}
   BRANCH: ${{ github.head_ref || github.ref_name }}
 
 jobs:
@@ -19,6 +19,5 @@ jobs:
       - run: git config --global user.email "<>"
       - run: git commit -am "Update for $(date --iso=date)"
       - run: git push -u origin update-$(date --iso=date)
-      - run: gh auth login
-      - run: cd amirouche && gh pr create --title "Automatic update for $(date --iso=date)" --body "Please merge."
+      - run: gh pr create --title "Automatic update for $(date --iso=date)" --body "Please merge."
  
