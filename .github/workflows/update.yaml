@@ -1,0 +1,17 @@
+name: release
+
+on: workflow_dispatch
+
+env:
+  GH_TOKEN: ${{ secrets.AMIROUCHE }}
+  BRANCH: ${{ github.head_ref || github.ref_name }}
+
+jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh repo clone amirouche/amirouche -- --branch $BRANCH
+      - run: cd amirouche && make
+      - run: cd amirouche && git checkout -b update-$(date --iso=month)
+      - run: cd amirouche && git push -u origin update-$(date --iso=month)
+      - run: cd amirouche && gh pr create --title "Update for $(date --iso=month)"
+ 
