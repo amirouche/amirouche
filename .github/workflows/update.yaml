@@ -1,4 +1,4 @@
-name: release
+name: update
 
 on: workflow_dispatch
 
@@ -13,5 +13,5 @@ jobs:
       - run: gh repo clone amirouche/amirouche -- --branch $BRANCH
       - run: cd amirouche && make
       - run: cd amirouche && git checkout -b update-$(date --iso=date)
-      - run: cd amirouche && gh pr create --title "Update for $(date --iso=month)"
+      - run: cd amirouche && gh pr create --title "Update for $(date --iso=date)"
  
