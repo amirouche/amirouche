@@ -16,5 +16,5 @@ jobs:
       - run: git config --global user.name "github action update.yml"
       - run: git config --global user.email "<>"
       - run: cd amirouche && git commit -am "Update for $(date --iso=date)"
-      - run: cd amirouche && gh pr create --head --fill-first
+      - run: cd amirouche && gh pr create --head --title "$(date --iso=date)" --body "Please-merge."
  
