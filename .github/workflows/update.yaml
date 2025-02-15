@@ -12,7 +12,6 @@ jobs:
     steps:
       - run: gh repo clone amirouche/amirouche -- --branch $BRANCH
       - run: cd amirouche && make
-      - run: cd amirouche && git checkout -b update-$(date --iso=month)
-      - run: cd amirouche && git push -u origin update-$(date --iso=month)
+      - run: cd amirouche && git checkout -b update-$(date --iso=date)
       - run: cd amirouche && gh pr create --title "Update for $(date --iso=month)"
  
