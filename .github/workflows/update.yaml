@@ -13,8 +13,8 @@ jobs:
       - run: gh repo clone amirouche/amirouche -- --branch $BRANCH
       - run: cd amirouche && make
       - run: cd amirouche && git checkout -b update-$(date --iso=date)
-      - run: git config user.name "github action: update.yml"
-      - run: git config user.email '<>'
+      - run: git config user.name "github action update.yml"
+      - run: git config user.email "<>"
       - run: cd amirouche && git commit -am "Update for $(date --iso=date)"
       - run: cd amirouche && gh pr create --title "Automatic update for $(date --iso=date)" --body "Please merge."
  
