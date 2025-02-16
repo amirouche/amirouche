@@ -1,4 +1,4 @@
-# Hello, Ni Hao, Konnichiwa, Hallo, Salam, Azul, Salut 👋
+# ✊ Hello, Ni Hao, Konnichiwa, Hallo, Salam, Azul, Salut 👋
 
 
 - 📫 How to reach me: email
