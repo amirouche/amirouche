@@ -36,7 +36,6 @@ Another bite:
 
 - 📫 How to reach me: email
 - ⚡ Fun fact: I have a beautiful, and awesome wife
-- Read my notes at https://amirouche.dev
 
 Happy hacking!
 
