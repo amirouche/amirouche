@@ -1,27 +1,21 @@
-# ✊ Hello, Ni Hao, Konnichiwa, Hallo, Salam, Azul, Salut 👋
+# ✊ Hello, Namaste, Ni Hao, Konnichiwa, Hallo, Hola, Salam, Azul, Salut 👋
 
 ## I am Amirouche Amazigh BOUBEKKI Je suis Amirouche Amazigh BOUBEKKI
 
-**I am a software engineer, and script kid. Je suis ingenieur logiciel, et enfant du code.**
+**I am a software engineer, and script kid. Je suis ingénieur logiciel, et enfant du code.**
 
-I am studying, and building software around Scheme implementations,
-CPython, the web stack, embedded databases, and distributed systems. I
-discovered the generic form of triplestores as known as Generic Tuple
-Store (nstore, and vnstore) database while reverse engineering current
-knowledge products, and those that will come. I live in France, and
-work for a company specializing in knowledge management. My favorite
-search engine is mojeek. I still emacs, and vim. I like
-retrocomputing. I love italian ice-cream, my wife, and my kid.
 
-J’étudie, et construit des logiciels aux sujets des implémentations de
-Scheme, de CPython, de la stack web, des bases de données embarquées
-et des systèmes distribués. J’ai découvert la forme générique des
-triples stores (nstore, et vnstore) en étudiant la gestion des
-connaissances d’aujourd’hui, et de demain. Je vie en France, je
-travaille dans la gestion des connaissances. Mon moteur de recherche
-préféré est mojeek. Je travaille avec emacs, et vim. Je m’intèresse au
-vieux systèmes informatiques. J’aime la glace à l’italienne, mon
-épouse et mon enfant.
+I study and build software with Scheme — the programmers' programmer tool of choice, the programmable programming language, the wellspring of Kernel by John Nathan Shutt. My focus areas include the web stack, embedded databases, and distributed systems.
+
+Beyond code, I navigate requirements gathering, product thinking, and the dialogue between stakeholders and systems.
+
+The spaces where I have least experience are Android and iOS development, hardware development, video games, in particular OpenGL and Vulkan. I will not invent the next big machine learning algorithm, but I wield the weights on a daily basis. I am not a cryptographer, but I am not clueless either; I have dabbled with various protocols and algorithms. I started with Gentoo in 2002; nowadays my daily drivers are Alpine, Guix, and Ubuntu.
+
+I discovered the generic form of triplestores also known as [Generic Tuple Store (nstore)](https://srfi.schemers.org/srfi-168/srfi-168.html) database while reverse engineering current knowledge products, and those that will come. I created last-hope (2016), [culturia](https://fr.wikiversity.org/wiki/Recherche:Pens%C3%A9es_Profondes_et_Dialogues_Pertinents) (2018), and [babelia](https://nlnet.nl/project/Babelia/) (January 2022) as convo-based knowledge exploration tools, when nobody cared about chatbots. I maintain the Wikipedia article on 'Ordered Key-Value Store', the minimal and versatile programmable storage system paradigm.
+
+I live in France, and work for a company specializing in knowledge management. My favorite search engine is Mojeek. I still Emacs and Vim. I can demonstrate soft skills and do pair-programming on VS Code. I like retrocomputing. I love Italian ice-cream, my wife, and my kid.
+
+My current focus is [bb.py](https://github.com/amirouche/bb.py), a multilingual Python function pool — built through vibe coding.
 
 Let’s agree that serif fonts do not always carry boring stuff. And have a taste of it:
 
