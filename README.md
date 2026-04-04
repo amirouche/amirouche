@@ -25,15 +25,14 @@ I authored four Scheme standards ([SRFI-167](https://srfi.schemers.org/srfi-167/
 
 ## My Leaderboard
 
-*8 owned public repositories scored and ranked.*
+*10 owned public repositories scored and ranked.*
 
 **Scoring:** stars x50 + forks x40 + commits x5 + clones x2 + views x1
 
 | Rank | Repository | Language | Score | Highlight |
 |------|-----------|----------|------:|-----------|
-| 1 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 3675 | 1300 clones in 14 days |
-| 2 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1414 | 214 commits |
-| 3 | [python-mutation](https://github.com/amirouche/python-mutation) | Python | 639 | 155 clones in 14 days |
-| 4 | [seed](https://github.com/amirouche/seed) | Scheme | 435 | 25 views in 14 days |
-| 5 | [amirouche](https://github.com/amirouche/amirouche) | N/A | 204 | 40 commits |
-
+| 1 | [seed](https://github.com/amirouche/seed) | Scheme | 2195 | 517 clones in 14 days |
+| 2 | [letloop](https://github.com/amirouche/letloop) | Scheme | 1567 | 456 clones in 14 days |
+| 3 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1398 | 216 commits |
+| 4 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1357 | 216 commits |
+| 5 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 938 | 179 commits |
