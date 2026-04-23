@@ -21,9 +21,9 @@ I authored four Scheme standards ([SRFI-167](https://srfi.schemers.org/srfi-167/
 > top of feature, but by removing the weaknesses and restrictions that
 > make additional features appear necessary. — schemers
 
-📫 [amirouche.dev](https://amirouche.dev) · hello@amirouche.dev · amirouche across platforms
+🗒️  [hyper.dev](https://hyper.dev/) · 📫 [amirouche.dev](https://amirouche.dev) · hello@amirouche.dev · amirouche across platforms
 
-## My Leaderboard
+# Leaderboard: amirouche's Top Repositories
 
 *10 owned public repositories scored and ranked.*
 
@@ -31,8 +31,13 @@ I authored four Scheme standards ([SRFI-167](https://srfi.schemers.org/srfi-167/
 
 | Rank | Repository | Language | Score | Highlight |
 |------|-----------|----------|------:|-----------|
-| 1 | [seed](https://github.com/amirouche/seed) | Scheme | 2195 | 517 clones in 14 days |
-| 2 | [letloop](https://github.com/amirouche/letloop) | Scheme | 1567 | 456 clones in 14 days |
-| 3 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1398 | 216 commits |
-| 4 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1357 | 216 commits |
-| 5 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 938 | 179 commits |
+| 1 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1871 | 293 clones in 14 days |
+| 2 | [seed](https://github.com/amirouche/seed) | Scheme | 1683 | 406 views in 14 days |
+| 3 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1411 | 216 commits |
+| 4 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 937 | 179 commits |
+| 5 | [letloop](https://github.com/amirouche/letloop) | Scheme | 695 | 116 commits |
+| 6 | [amirouche](https://github.com/amirouche/amirouche) | Python | 226 | 42 commits |
+| 7 | [mobius](https://github.com/amirouche/mobius) | HTML | 155 | 24 views in 14 days |
+| 8 | [araised.py](https://github.com/amirouche/araised.py) | Python | 102 | 16 clones in 14 days |
+| 9 | [ing0](https://github.com/amirouche/ing0) | Python | 71 | 12 clones in 14 days |
+| 10 | [engineering-diplomacy](https://github.com/amirouche/engineering-diplomacy) | Tree-sitter Query | 24 | 9 clones in 14 days |

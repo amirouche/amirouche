@@ -101,7 +101,7 @@ def main():
         enriched.append(metrics)
 
     enriched.sort(key=lambda m: m["score"], reverse=True)
-    top = enriched[:5]
+    top = enriched[:10]
 
     lines = [
         f"# Leaderboard: {USERNAME}'s Top Repositories",
@@ -124,9 +124,9 @@ def main():
     output = "\n".join(lines)
     print(output)
 
-    with open("top5_repos.md", "w") as f:
+    with open("top10_repos.md", "w") as f:
         f.write(output + "\n")
-    print(f"\nSaved to top5_repos.md", file=sys.stderr)
+    print(f"\nSaved to top10_repos.md", file=sys.stderr)
 
 
 if __name__ == "__main__":
