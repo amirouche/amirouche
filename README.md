@@ -25,19 +25,20 @@ I authored four Scheme standards ([SRFI-167](https://srfi.schemers.org/srfi-167/
 
 # Leaderboard: amirouche's Top Repositories
 
-*10 owned public repositories scored and ranked.*
+
+*12 owned public repositories scored and ranked.*
 
 **Scoring:** stars x50 + forks x40 + commits x5 + clones x2 + views x1
 
 | Rank | Repository | Language | Score | Highlight |
 |------|-----------|----------|------:|-----------|
-| 1 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1871 | 293 clones in 14 days |
-| 2 | [seed](https://github.com/amirouche/seed) | Scheme | 1683 | 406 views in 14 days |
-| 3 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1411 | 216 commits |
-| 4 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 937 | 179 commits |
-| 5 | [letloop](https://github.com/amirouche/letloop) | Scheme | 695 | 116 commits |
-| 6 | [amirouche](https://github.com/amirouche/amirouche) | Python | 226 | 42 commits |
-| 7 | [mobius](https://github.com/amirouche/mobius) | HTML | 155 | 24 views in 14 days |
-| 8 | [araised.py](https://github.com/amirouche/araised.py) | Python | 102 | 16 clones in 14 days |
-| 9 | [ing0](https://github.com/amirouche/ing0) | Python | 71 | 12 clones in 14 days |
-| 10 | [engineering-diplomacy](https://github.com/amirouche/engineering-diplomacy) | Tree-sitter Query | 24 | 9 clones in 14 days |
+| 1 | [letloop](https://github.com/amirouche/letloop) | Scheme | 4000 | 1548 clones in 14 days |
+| 2 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1599 | 228 clones in 14 days |
+| 3 | [seed](https://github.com/amirouche/seed) | Scheme | 1459 | 101 clones in 14 days |
+| 4 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1316 | 216 commits |
+| 5 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 1041 | 182 commits |
+| 6 | [ing0](https://github.com/amirouche/ing0) | Python | 1039 | 442 clones in 14 days |
+| 7 | [bb.scm](https://github.com/amirouche/bb.scm) | Scheme | 402 | 78 clones in 14 days |
+| 8 | [amirouche](https://github.com/amirouche/amirouche) | Python | 303 | 44 clones in 14 days |
+| 9 | [monolink](https://github.com/amirouche/monolink) | Scheme | 256 | 53 clones in 14 days |
+| 10 | [mobius](https://github.com/amirouche/mobius) | Makefile | 221 | 40 clones in 14 days |
