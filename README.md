@@ -21,24 +21,24 @@ I authored four Scheme standards ([SRFI-167](https://srfi.schemers.org/srfi-167/
 > top of feature, but by removing the weaknesses and restrictions that
 > make additional features appear necessary. — schemers
 
-🗒️  [hyper.dev](https://hyper.dev/) · 📫 [amirouche.dev](https://amirouche.dev) · hello@amirouche.dev · amirouche across platforms
-
 # Leaderboard: amirouche's Top Repositories
-
-
-*12 owned public repositories scored and ranked.*
 
 **Scoring:** stars x50 + forks x40 + commits x5 + clones x2 + views x1
 
 | Rank | Repository | Language | Score | Highlight |
 |------|-----------|----------|------:|-----------|
-| 1 | [letloop](https://github.com/amirouche/letloop) | Scheme | 4000 | 1548 clones in 14 days |
-| 2 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1599 | 228 clones in 14 days |
-| 3 | [seed](https://github.com/amirouche/seed) | Scheme | 1459 | 101 clones in 14 days |
-| 4 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1316 | 216 commits |
-| 5 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 1041 | 182 commits |
-| 6 | [ing0](https://github.com/amirouche/ing0) | Python | 1039 | 442 clones in 14 days |
-| 7 | [bb.scm](https://github.com/amirouche/bb.scm) | Scheme | 402 | 78 clones in 14 days |
-| 8 | [amirouche](https://github.com/amirouche/amirouche) | Python | 303 | 44 clones in 14 days |
-| 9 | [monolink](https://github.com/amirouche/monolink) | Scheme | 256 | 53 clones in 14 days |
-| 10 | [mobius](https://github.com/amirouche/mobius) | Makefile | 221 | 40 clones in 14 days |
+| 1 | [letloop](https://github.com/amirouche/letloop) | Scheme | 1917 | 482 clones in 14 days |
+| 2 | [seed](https://github.com/amirouche/seed) | Scheme | 1630 | 155 clones in 14 days |
+| 3 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1539 | 217 commits |
+| 4 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1318 | 216 commits |
+| 5 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 976 | 182 commits |
+| 6 | [bb.scm](https://github.com/amirouche/bb.scm) | Scheme | 385 | 46 commits |
+| 7 | [united.scheme.rs](https://github.com/amirouche/united.scheme.rs) | Scheme | 363 | 61 commits |
+| 8 | [amirouche](https://github.com/amirouche/amirouche) | Python | 300 | 45 commits |
+| 9 | [monolink](https://github.com/amirouche/monolink) | Scheme | 204 | 30 commits |
+| 10 | [ing0](https://github.com/amirouche/ing0) | Python | 159 | 31 commits |
+
+---
+
+🗒️  [hyper.dev](https://hyper.dev/) · 📫 [amirouche.dev](https://amirouche.dev) · hello@amirouche.dev · amirouche across platforms
+
