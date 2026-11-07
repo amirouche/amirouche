@@ -14,8 +14,12 @@ I authored four Scheme standards ([SRFI-167](https://srfi.schemers.org/srfi-167/
 
 13+ years of Scheme. A decade-long project lineage: Last Hope (2016) → Culturia (2018) → Babelia (2022) → bb.py. Software engineer in France, working on backend systems, NLP, and recommendation engines.
 
+First:
+
 > If a system must serve the creative spirit, it must be entirely
 > comprehensible by a single individual. — smalltalkers
+
+Then:
 
 > Programming languages should be designed not by piling feature on
 > top of feature, but by removing the weaknesses and restrictions that
@@ -23,22 +27,23 @@ I authored four Scheme standards ([SRFI-167](https://srfi.schemers.org/srfi-167/
 
 # Leaderboard: amirouche's Top Repositories
 
+*14 owned public repositories scored and ranked.*
+
 **Scoring:** stars x50 + forks x40 + commits x5 + clones x2 + views x1
 
 | Rank | Repository | Language | Score | Highlight |
 |------|-----------|----------|------:|-----------|
-| 1 | [letloop](https://github.com/amirouche/letloop) | Scheme | 1917 | 482 clones in 14 days |
-| 2 | [seed](https://github.com/amirouche/seed) | Scheme | 1630 | 155 clones in 14 days |
-| 3 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1539 | 217 commits |
-| 4 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1318 | 216 commits |
-| 5 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 976 | 182 commits |
-| 6 | [bb.scm](https://github.com/amirouche/bb.scm) | Scheme | 385 | 46 commits |
-| 7 | [united.scheme.rs](https://github.com/amirouche/united.scheme.rs) | Scheme | 363 | 61 commits |
-| 8 | [amirouche](https://github.com/amirouche/amirouche) | Python | 300 | 45 commits |
-| 9 | [monolink](https://github.com/amirouche/monolink) | Scheme | 204 | 30 commits |
-| 10 | [ing0](https://github.com/amirouche/ing0) | Python | 159 | 31 commits |
+| 1 | [letloop](https://github.com/amirouche/letloop) | Scheme | 2105 | 352 commits |
+| 2 | [bb.py](https://github.com/amirouche/bb.py) | Python | 1948 | 316 commits |
+| 3 | [seed](https://github.com/amirouche/seed) | Scheme | 1507 | 93 views in 14 days |
+| 4 | [mutation.py](https://github.com/amirouche/mutation.py) | Python | 1429 | 188 commits |
+| 5 | [asyncio-foundationdb](https://github.com/amirouche/asyncio-foundationdb) | Python | 1331 | 217 commits |
+| 6 | [bb.scm](https://github.com/amirouche/bb.scm) | Scheme | 733 | 95 commits |
+| 7 | [united.scheme.rs](https://github.com/amirouche/united.scheme.rs) | Scheme | 372 | 61 commits |
+| 8 | [amirouche](https://github.com/amirouche/amirouche) | Python | 315 | 45 commits |
+| 9 | [monolink](https://github.com/amirouche/monolink) | Scheme | 219 | 30 commits |
+| 10 | [mobius](https://github.com/amirouche/mobius) | Makefile | 190 | 13 commits |*12 owned public repositories scored and ranked.*
 
 ---
 
 🗒️  [hyper.dev](https://hyper.dev/) · 📫 [amirouche.dev](https://amirouche.dev) · hello@amirouche.dev · amirouche across platforms
-
