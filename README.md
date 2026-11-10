@@ -1,4 +1,4 @@
-# ✊ Azul, Salam, Namaste, Ni Hao, Hola, Hello 👋
+# ✊ Azul, Salam, Namaste, Ni Hao, Hola, Salut, Hello 👋
 
 ## Amirouche Amazigh BOUBEKKI
 
